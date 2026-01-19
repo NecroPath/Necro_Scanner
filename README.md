@@ -28,4 +28,4 @@
 ### 1. Cloner le projet
 ```bash
 git clone [https://github.com/votre-username/coop-scanner.git](https://github.com/votre-username/coop-scanner.git)
-cd coop-scanner
+cd Necro_Scanner

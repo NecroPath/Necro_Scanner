@@ -1,7 +1,7 @@
 # Necro_Scanner
-# 📡 Coop-Scanner | Wifi Pentest & Recon Tool
+# 📡 Necro_Scanner | Wifi Pentest & Recon Tool
 
-**Coop-Scanner** est un outil de reconnaissance Wi-Fi furtif et collaboratif développé en Python. Il utilise le scan passif (mode monitor) pour cartographier les réseaux environnants sans émettre de paquets, le rendant invisible pour les systèmes de détection d'intrusion (WIDS).
+**Necro_Scanner** est un outil de reconnaissance Wi-Fi furtif et collaboratif développé en Python. Il utilise le scan passif (mode monitor) pour cartographier les réseaux environnants sans émettre de paquets, le rendant invisible pour les systèmes de détection d'intrusion (WIDS).
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
@@ -17,14 +17,6 @@
 - 📊 **Interface Graphique (GUI) :** Dashboard en temps réel basé sur Tkinter avec gestion de threads pour une fluidité maximale.
 - 📡 **Channel Hopping :** Saut automatique entre les canaux 1 et 14 (spectre 2.4GHz).
 - 🤝 **Architecture Coopérative :** Structure modulaire prête pour l'intégration d'une base de données centralisée.
-
----
-
-## 📸 Aperçu de l'interface
-
-
-
----
 
 ## 🚀 Installation & Utilisation
 
